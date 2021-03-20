@@ -1,0 +1,96 @@
+[1014/214712.637:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1014/214712.776:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1014/214712.776:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1014/214712.776:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1014/214712.777:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1014/214712.777:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1014/214712.777:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1014/214712.778:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1014/214712.778:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1014/214712.778:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1014/214712.778:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1014/214714.232:ERROR:exception_snapshot_win.cc(99)] thread ID 6912 not found in process
+[1014/214714.299:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1014/214714.299:ERROR:exception_snapshot_win.cc(99)] thread ID 1700 not found in process
+[1201/154542.235:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1201/155542.312:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1201/155542.416:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\lenovo\AppData\Local\AVAST Software\Browser\User Data\Crashpad\attachments\0276f1f8-c767-4d78-8b1c-2a5dc576738d: The system cannot find the path specified. (0x3)
+[1201/155542.429:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\lenovo\AppData\Local\AVAST Software\Browser\User Data\Crashpad\attachments\093ce74c-adb5-4c5c-af99-286c1d2a69c8: The system cannot find the path specified. (0x3)
+[1201/155542.498:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\lenovo\AppData\Local\AVAST Software\Browser\User Data\Crashpad\attachments\0bc6754b-7fef-4c61-8ab6-aeae52e03f0e: The system cannot find the path specified. (0x3)
+[1201/155542.572:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\lenovo\AppData\Local\AVAST Software\Browser\User Data\Crashpad\attachments\0cf8c8d5-8e78-40b2-9620-ceaa3fe1f94d: The system cannot find the path specified. (0x3)
+[1201/155542.615:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\lenovo\AppData\Local\AVAST Software\Browser\User Data\Crashpad\attachments\0ef67724-993d-459d-9bb5-f76265b8519f: The system cannot find the path specified. (0x3)
+[1201/155542.710:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\lenovo\AppData\Local\AVAST Software\Browser\User Data\Crashpad\attachments\1a6369c5-6b5d-400b-895d-0c1052e7e1a7: The system cannot find the path specified. (0x3)
+[1201/155542.853:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\lenovo\AppData\Local\AVAST Software\Browser\User Data\Crashpad\attachments\1c806f64-ea5c-4587-80d7-2bd62fbc1fff: The system cannot find the path specified. (0x3)
+[1201/155542.952:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\lenovo\AppData\Local\AVAST Software\Browser\User Data\Crashpad\attachments\27bcee3b-bcee-44cf-aa62-65c2d121b653: The system cannot find the path specified. (0x3)
+[1201/155543.172:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\lenovo\AppData\Local\AVAST Software\Browser\User Data\Crashpad\attachments\2d712c29-f41a-4f22-8ef4-7d1079bc07cd: The system cannot find the path specified. (0x3)
+[1201/155543.333:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\lenovo\AppData\Local\AVAST Software\Browser\User Data\Crashpad\attachments\30fa3abc-0f07-42c4-90dd-cc88b2b1b73b: The system cannot find the path specified. (0x3)
+[1201/155543.459:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\lenovo\AppData\Local\AVAST Software\Browser\User Data\Crashpad\attachments\3ec431ad-3d91-4ad8-957c-bfee2f23c719: The system cannot find the path specified. (0x3)
+[1201/155543.541:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\lenovo\AppData\Local\AVAST Software\Browser\User Data\Crashpad\attachments\4041f40c-cc8b-4a33-8c25-68994e3fab7a: The system cannot find the path specified. (0x3)
+[1201/155543.582:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\lenovo\AppData\Local\AVAST Software\Browser\User Data\Crashpad\attachments\48242709-2586-4d46-99cc-36ff9e6f603d: The system cannot find the path specified. (0x3)
+[1201/155543.654:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\lenovo\AppData\Local\AVAST Software\Browser\User Data\Crashpad\attachments\492f6b85-0711-4338-a547-185fd6bda293: The system cannot find the path specified. (0x3)
+[1201/155543.725:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\lenovo\AppData\Local\AVAST Software\Browser\User Data\Crashpad\attachments\4e88eed8-4477-48d3-afea-02fae12ae5a5: The system cannot find the path specified. (0x3)
+[1201/155543.756:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\lenovo\AppData\Local\AVAST Software\Browser\User Data\Crashpad\attachments\514ab8f9-6c21-4417-a54e-935adf591bb8: The system cannot find the path specified. (0x3)
+[1201/155543.914:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\lenovo\AppData\Local\AVAST Software\Browser\User Data\Crashpad\attachments\5163009c-5521-4003-9e76-3f0777f13734: The system cannot find the path specified. (0x3)
+[1201/155543.958:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\lenovo\AppData\Local\AVAST Software\Browser\User Data\Crashpad\attachments\53c55076-e661-4545-ad1b-8a324c657b7f: The system cannot find the path specified. (0x3)
+[1201/155544.003:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\lenovo\AppData\Local\AVAST Software\Browser\User Data\Crashpad\attachments\5934bc4a-bdf8-4762-8887-6d8fb5b543fd: The system cannot find the path specified. (0x3)
+[1201/155544.236:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\lenovo\AppData\Local\AVAST Software\Browser\User Data\Crashpad\attachments\5941bad0-b535-48de-8683-c308b0743c8d: The system cannot find the path specified. (0x3)
+[1201/155544.264:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\lenovo\AppData\Local\AVAST Software\Browser\User Data\Crashpad\attachments\69e5c6b5-95b9-4ad3-9db7-10c2b58544ca: The system cannot find the path specified. (0x3)
+[1201/155544.306:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\lenovo\AppData\Local\AVAST Software\Browser\User Data\Crashpad\attachments\73bf778d-6731-474b-a481-2216593a8ba3: The system cannot find the path specified. (0x3)
+[1201/155544.456:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\lenovo\AppData\Local\AVAST Software\Browser\User Data\Crashpad\attachments\7915ad6d-ff3c-41cc-83db-27b35e18eb23: The system cannot find the path specified. (0x3)
+[1201/155544.499:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\lenovo\AppData\Local\AVAST Software\Browser\User Data\Crashpad\attachments\81d9a5d5-071c-43d6-aaf5-2ab7a6259882: The system cannot find the path specified. (0x3)
+[1201/155544.543:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\lenovo\AppData\Local\AVAST Software\Browser\User Data\Crashpad\attachments\8385db69-b3d9-44f2-b567-1b6b7fec7cc0: The system cannot find the path specified. (0x3)
+[1201/155544.647:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\lenovo\AppData\Local\AVAST Software\Browser\User Data\Crashpad\attachments\8b7803b2-17a9-4e30-8778-8e04cfeb8dd9: The system cannot find the path specified. (0x3)
+[1201/155544.690:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\lenovo\AppData\Local\AVAST Software\Browser\User Data\Crashpad\attachments\90ff5814-1eb5-40dd-b43d-3c0948534ba2: The system cannot find the path specified. (0x3)
+[1201/155544.881:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\lenovo\AppData\Local\AVAST Software\Browser\User Data\Crashpad\attachments\915f2013-5814-4968-87d5-a5fa67442461: The system cannot find the path specified. (0x3)
+[1201/155544.891:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\lenovo\AppData\Local\AVAST Software\Browser\User Data\Crashpad\attachments\9196aac5-8c9d-40ba-967e-b13234164e57: The system cannot find the path specified. (0x3)
+[1201/155544.933:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\lenovo\AppData\Local\AVAST Software\Browser\User Data\Crashpad\attachments\95cf54fb-ee90-41d9-a8ae-c5808e5dedc6: The system cannot find the path specified. (0x3)
+[1201/155545.071:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\lenovo\AppData\Local\AVAST Software\Browser\User Data\Crashpad\attachments\a79b625a-97bb-4efa-bc6c-d573ab8d0273: The system cannot find the path specified. (0x3)
+[1201/155545.108:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\lenovo\AppData\Local\AVAST Software\Browser\User Data\Crashpad\attachments\b6317f36-9b67-475f-8462-557b6a79f819: The system cannot find the path specified. (0x3)
+[1201/155545.318:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\lenovo\AppData\Local\AVAST Software\Browser\User Data\Crashpad\attachments\c6ad0bab-4e2c-4431-9f59-5edde2e43e61: The system cannot find the path specified. (0x3)
+[1201/155545.401:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\lenovo\AppData\Local\AVAST Software\Browser\User Data\Crashpad\attachments\cd1acac5-c73b-4777-81b1-acb89a01d59f: The system cannot find the path specified. (0x3)
+[1201/155545.418:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\lenovo\AppData\Local\AVAST Software\Browser\User Data\Crashpad\attachments\d61b8acb-2cd3-4e1f-a989-5fd2a3c881ca: The system cannot find the path specified. (0x3)
+[1201/155545.548:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\lenovo\AppData\Local\AVAST Software\Browser\User Data\Crashpad\attachments\ea2cd861-f083-4bcb-a007-be76791eed5c: The system cannot find the path specified. (0x3)
+[1201/155545.648:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\lenovo\AppData\Local\AVAST Software\Browser\User Data\Crashpad\attachments\ea7cc9df-01ce-440b-97c1-36307788820f: The system cannot find the path specified. (0x3)
+[1201/155545.687:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\lenovo\AppData\Local\AVAST Software\Browser\User Data\Crashpad\attachments\f178bfc1-77e4-4f2e-8cc6-bfa576cb0e5b: The system cannot find the path specified. (0x3)
+[1201/155545.752:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\lenovo\AppData\Local\AVAST Software\Browser\User Data\Crashpad\attachments\f1ae2d00-6316-4bfb-9b21-56696272d48c: The system cannot find the path specified. (0x3)
+[1201/155545.834:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\lenovo\AppData\Local\AVAST Software\Browser\User Data\Crashpad\attachments\f82069d8-91c3-4da2-9075-2afe9fa34bad: The system cannot find the path specified. (0x3)
+[1201/155545.893:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\lenovo\AppData\Local\AVAST Software\Browser\User Data\Crashpad\attachments\f9635dad-2ca2-440c-a2b4-2f44c2bbc0fc: The system cannot find the path specified. (0x3)
+[1201/155545.894:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1201/155545.898:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1201/155545.901:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1201/160042.427:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1201/161542.440:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1201/163042.670:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1201/190601.059:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1201/193540.518:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1201/194540.633:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1201/194540.958:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1201/194541.002:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1201/194541.006:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1201/195040.522:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1201/200540.525:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1201/211122.092:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1202/061542.228:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1202/063042.469:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1202/064542.704:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1202/070042.891:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1202/071543.049:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1202/073044.749:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1202/074545.421:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1202/080045.567:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1202/082121.171:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1202/083621.261:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1202/085121.339:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1202/090621.340:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1202/092121.342:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1202/093621.345:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1202/105248.873:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1202/110748.877:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1202/113746.242:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1202/115246.248:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1202/120746.252:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1202/122246.257:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1202/123746.272:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1202/125246.276:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1202/130746.338:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1202/132246.583:ERROR:crash_report_database_win.cc(457)] unexpected header
